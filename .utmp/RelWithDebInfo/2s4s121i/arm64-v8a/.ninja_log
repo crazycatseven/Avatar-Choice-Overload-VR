@@ -1,0 +1,19 @@
+# ninja log v5
+26	1316	7552992877128915	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c7d1416b5ff7ee10
+1	1795	7552992881882405	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ac43249df48f072a
+32	1354	7552992877439199	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	2e4d68b854cdcd7
+38	1668	7552992880633399	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9924c7c04ea89623
+6	1366	7552992877591460	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	7f08cf5f7d15f153
+14	1400	7552992877882464	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a802991d493e35f2
+19	2088	7552992884877470	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	fafa1e7400e3772
+2304	2472	7552992888747061	C:/Users/crazycat/Documents/GitHub/Avatar-Choice-Overload-VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2s4s121i/obj/arm64-v8a/libgame.so	a4ac7f9b7129e131
+10	2304	7552992886965604	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d286f887e983be3d
+12	714	7553292081231868	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	7f08cf5f7d15f153
+16	715	7553292081272301	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a802991d493e35f2
+24	720	7553292081317792	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	2e4d68b854cdcd7
+29	736	7553292081459642	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c7d1416b5ff7ee10
+7	847	7553292082567393	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ac43249df48f072a
+36	849	7553292082582605	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9924c7c04ea89623
+20	1031	7553292084394201	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	fafa1e7400e3772
+2	1189	7553292085949823	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d286f887e983be3d
+1190	1302	7553292087164011	C:/Users/crazycat/Documents/GitHub/Avatar-Choice-Overload-VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2s4s121i/obj/arm64-v8a/libgame.so	a4ac7f9b7129e131
